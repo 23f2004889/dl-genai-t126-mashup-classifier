@@ -1,0 +1,5 @@
+torch
+torchaudio
+torchvision
+gradio>=4.0
+numpy

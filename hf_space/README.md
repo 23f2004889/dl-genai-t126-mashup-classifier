@@ -1,5 +1,6 @@
 ---
 title: Messy Mashup Genre Classifier
+emoji: 🎵
 colorFrom: purple
 colorTo: blue
 sdk: gradio
@@ -9,7 +10,7 @@ pinned: false
 license: mit
 ---
 
-#  Messy Mashup — Music Genre Classifier
+# 🎵 Messy Mashup — Music Genre Classifier
 
 Upload a music clip or record from your microphone and the AI will classify it into one of 10 genres.
 
