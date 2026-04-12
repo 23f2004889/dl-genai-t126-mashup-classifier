@@ -125,7 +125,7 @@ HipHop, Jazz, Metal, Pop, Reggae, Rock**.
 - **Test-Time Augmentation:** 3 crops (start, middle, end) averaged for robustness
 - **Training Score:** 0.90 Macro F1
 
-*Built for BSDA2001P: Introduction to DL and GenAI — IIT Madras*
+*Built for BSDA2001P: Introduction to DL and GenAI - IIT Madras*
 """
 
 demo = gr.Interface(
