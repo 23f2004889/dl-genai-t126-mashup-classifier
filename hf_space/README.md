@@ -16,4 +16,4 @@ Upload a music clip or record from your microphone and the AI will classify it i
 
 **Model:** EfficientNet-B0 fine-tuned on synthetic mashups with tempo augmentation, multi-noise injection, and RMS normalization.
 
-**Project:** BSDA2001P — Introduction to DL and GenAI, IIT Madras
+**Project:** BSDA2001P - Introduction to DL and GenAI, IIT Madras
